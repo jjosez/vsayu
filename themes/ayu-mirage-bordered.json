@@ -1,5 +1,7 @@
 {
 	"name": "Ayu-Mirage-Bordered",
+	"author": "Tobias Timm",
+  	"maintainers": ["Tobias Timm <tbs.timm@gmail.com>"],
 	"type": "dark",
 	"colors": {
 		"focusBorder": "#ffcc66b3",

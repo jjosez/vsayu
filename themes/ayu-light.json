@@ -1,5 +1,7 @@
 {
 	"name": "Ayu-Light",
+	"author": "Tobias Timm",
+  	"maintainers": ["Tobias Timm <tbs.timm@gmail.com>"],
 	"type": "light",
 	"colors": {
 		"focusBorder": "#ffaa33b3",

@@ -1,5 +1,7 @@
 {
 	"name": "Ayu-Dark",
+	"author": "Tobias Timm",
+  	"maintainers": ["Tobias Timm <tbs.timm@gmail.com>"],
 	"type": "dark",
 	"colors": {
 		"focusBorder": "#e6b450b3",
