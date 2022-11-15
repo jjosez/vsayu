@@ -79,5 +79,10 @@
     "ts-node": "^8.10.2",
     "typescript": "^3.9.3",
     "vsce": "^1.96.1"
+  },
+  "__metadata": {
+    "id": "164a680e-c8b0-4902-9321-dfd1888bf543",
+    "publisherDisplayName": "Tobias Timm",
+    "publisherId": "5e0244e1-b94f-4e44-8cdc-1397334a044f"
   }
 }
